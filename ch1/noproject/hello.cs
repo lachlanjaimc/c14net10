@@ -1,0 +1,1 @@
+Console.WriteLine("Hello world with no project file!");
